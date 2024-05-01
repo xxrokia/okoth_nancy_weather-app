@@ -1,3 +1,6 @@
+//Student Name:Nancy Okoth
+//Student ID: S2110917
+
 package org.me.gcu.okoth_nancy_s2110917;
 
 import android.os.Bundle;
